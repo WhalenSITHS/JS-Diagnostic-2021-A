@@ -6,4 +6,4 @@
 
 //Q4) When using Fetch, what data type is  found after resolving the Promise?
 
-//Q5) Using Async Await, write a function that logs ONLY the abilities of the pokemon found at the following URL Endpoint "https://pokeapi.co/api/v2/pokemon/blastoise"
+//Q5) Using Async Await, write a function that logs ONLY the ability names of the pokemon found at the following URL Endpoint "https://pokeapi.co/api/v2/pokemon/blastoise"
